@@ -6,3 +6,4 @@ hi good morning
 >>>>>>> affef475e2f5f1a6f7699c42f6f58a9633335c3c
 Feature 1 wip
 feature11 with 2 bugs
+feature1 with feature 2 bugs feature 2 wip
