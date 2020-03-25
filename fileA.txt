@@ -7,3 +7,4 @@ hi good morning
 Feature 1 wip
 feature11 with 2 bugs
 feature1 with feature 2 bugs feature 2 wip
+feature1 with 1 bug
