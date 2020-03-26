@@ -7,6 +7,13 @@ hi good morning
 Feature 1 wip
 feature11 with 2 bugs
 feature1 with feature 2 bugs feature 2 wip
+<<<<<<< HEAD
 feature1 with 1 bug
 results in feature 1 with 1 bug
+<<<<<<< HEAD
+=======
+=======
+feature 1 with 1 bug feature 2wip
+>>>>>>> feature 2 wip
+>>>>>>> hotfix1
 feature1
